@@ -2175,3 +2175,6 @@ nav ul li a {
 	z-index: 2;
 	background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
 }
+p {
+  color: #fff;text-transform: uppercase;font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight: 700;line-height: 3;
+}
